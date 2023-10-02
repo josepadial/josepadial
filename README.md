@@ -3,8 +3,9 @@
 
 <p align="center">I'm Cloud Software Architect, I am a passionate computer engineer with a specialization in Agile, Cloud, and Robotics. Committed to the implementation of innovative solutions, I have successfully collaborated on various projects throughout my years of experience in developing cutting-edge solutions. By combining my technical expertise with project management skills and teamwork, I strive to deliver exceptional results.</p>
 
-</br>
 ---
+
+</br>
 My Github Stats: 
 <br>
   <p align = "left">
@@ -12,6 +13,8 @@ My Github Stats:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&hide=css,html&theme=tokyonight">
     <img src="https://streak-stats.demolab.com/?user=josepadial&hide=css,html&theme=tokyonight">
   </p>
+
+---
 
 - 👨🏽‍💻 I’m currently working as Cloud Software Architect
 - 🕰 Free time: I am a passionate computer engineer and robotics 
