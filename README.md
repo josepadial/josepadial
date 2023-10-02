@@ -10,12 +10,17 @@ My Github Stats:
   <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&theme=radical&line_height=27"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&hide=css,html&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=josepadial&hide=css,html&theme=tokyonight">
   </p>
 
 - 👨🏽‍💻 I’m currently working as Cloud Software Architect
 - 🕰 Free time: I am a passionate computer engineer and robotics 
 - 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: joseapadialmolina@gmail.com
+
+---
+
+![GitHub metrics](https://metrics.lecoq.io/josepadial)  
 
 ---
 
