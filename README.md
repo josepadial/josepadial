@@ -55,7 +55,7 @@ I’m a **Cloud Software Architect** with a **PhD in Artificial Intelligence** a
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Jenkins-as-a-Service** | Multi-tenant CI/CD platform for a major bank with hardened security, compliance, and self-service capabilities. | Jenkins, Kubernetes, OPA, Vault |
-| **Secure Supply Chain** | SBOM-based security scanning and signing for all builds, aligned with SLSA level 3 practices. | Tekton, Sigstore, Cosign |
+| **Secure Supply Chain** | SBOM-based security scanning and signing for all builds, aligned with Supply chain Levels for Software Artifacts (SLSA) level 3 practices. | Tekton, Sigstore, Cosign |
 | **Observability Platform** | Centralized metrics, logs, and tracing with alerting & SLO dashboards. | Prometheus, Grafana, Loki, OpenTelemetry |
 
 ---
