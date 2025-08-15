@@ -37,7 +37,7 @@ I’m a **Cloud Software Architect** with a **PhD in Artificial Intelligence** a
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,terraform,githubactions,argo,vault,java,python,typescript,bash,prometheus,grafana" alt="Technology stack icons including cloud platforms, containers, programming languages, and monitoring tools" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,terraform,githubactions,argo,vault,java,python,typescript,bash,prometheus,grafana" alt="Technology icons: Kubernetes, Docker, Helm, Terraform, GitHub Actions, Argo, Vault, Java, Python, TypeScript, Bash, Prometheus, Grafana" />
 </p>
 
 ---
