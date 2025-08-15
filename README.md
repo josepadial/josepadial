@@ -1,7 +1,7 @@
 <!-- Profile README for @josepadial — ultra-polished and dynamic -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1100&center=true&vCenter=true&width=980&lines=Cloud+Software+Architect;PhD+in+Artificial+Intelligence;Secure%2C+Scalable%2C+Observable+Platforms;Engineering+for+Financial+Institutions" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1100&center=true&vCenter=true&width=980&lines=Cloud+Software+Architect;PhD+in+Artificial+Intelligence;Secure%2C+Scalable%2C+Observable+Platforms;Engineering+for+Financial+Institutions" alt="Dynamic banner displaying: Cloud Software Architect, PhD in Artificial Intelligence, Secure, Scalable, Observable Platforms, Engineering for Financial Institutions" />
 </p>
 
 <h1 align="center">Hi, I'm Jose Padial</h1>
