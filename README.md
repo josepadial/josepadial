@@ -9,6 +9,7 @@
 <p align="center">
   <a href="mailto:joseapadialmolina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joseapadialmolina%40gmail.com-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jose-antonio-padial-molina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://github.com/josepadial-edu"><img alt="GitHub Organization" src="https://img.shields.io/badge/GitHub-Education_Repos-181717?logo=github"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=josepadial&style=flat&label=Profile+views">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Cloud%20Platforms%20%7C%20SRE%20%7C%20AI-informational">
 </p>
@@ -112,7 +113,8 @@ I’m a **Cloud Software Architect** with a **PhD in Artificial Intelligence** a
 ## 📬 Contact
 
 - 📧 Email: **joseapadialmolina@gmail.com**  
-- 🔗 LinkedIn: [Jose Antonio Padial Molina](https://www.linkedin.com/in/jose-antonio-padial-molina/)  
+- 🔗 LinkedIn: [Jose Antonio Padial Molina](https://www.linkedin.com/in/jose-antonio-padial-molina/)
+- 🗂 Educational repos: [josepadial-edu](https://github.com/josepadial-edu)  
 - 💬 Open to collaborations around **cloud platforms, secure delivery, and SRE**.
 
 ---
