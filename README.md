@@ -54,24 +54,49 @@ OpenTelemetry • Prometheus • Grafana • Loki • Tracing • Error budgets 
 ## 📡 Live Metrics
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&hide_border=true">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&hide_border=true&theme=github_dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://streak-stats.demolab.com?user=josepadial&hide_border=true">
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=josepadial&hide_border=true&theme=github-dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=josepadial&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
     <img height="170" src="https://streak-stats.demolab.com?user=josepadial&hide_border=true" alt="Streak stats" />
-  </a>
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&layout=compact&hide_border=true">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&layout=compact&hide_border=true&theme=github_dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&layout=compact&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepadial&layout=compact&hide_border=true" alt="Top languages" />
-  </a>
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=josepadial&theme=flat&no-frame=true&margin-w=5">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=josepadial&theme=discord&no-frame=true&margin-w=5" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=josepadial&theme=flat&no-frame=true&margin-w=5" 
+      media="(prefers-color-scheme: light)" />
     <img src="https://github-profile-trophy.vercel.app/?username=josepadial&theme=flat&no-frame=true&margin-w=5" alt="Trophies" />
-  </a>
+  </picture>
 </p>
 
 ---
