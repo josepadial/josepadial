@@ -63,7 +63,7 @@ I’m a **Cloud Software Architect** with a **PhD in Artificial Intelligence** a
 ## 📜 Certifications & Speaking
 
 - 🏅 **PhD in Artificial Intelligence** – University of Granada
-- 🎤 Speaker at internal bank tech conferences (topics: CI/CD at scale, AI-in-prod, cloud security)
+- 🎤 Speaker at internal bank tech conferences (topics: CI/CD at scale, AI in production, cloud security)
 
 ---
 
