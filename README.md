@@ -1,4 +1,4 @@
-<!-- Profile README for @josepadial — balanced focus -->
+<!-- Profile README for @josepadial — clean, dynamic, and professional -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1100&center=true&vCenter=true&width=980&lines=Cloud+Software+Architect;PhD+in+Artificial+Intelligence;Secure%2C+Scalable%2C+Observable+Platforms;Engineering+for+Financial+Institutions" alt="Typing banner" />
@@ -51,7 +51,7 @@ OpenTelemetry • Prometheus • Grafana • Loki • Tracing • Error budgets 
 
 ---
 
-## 📊 GitHub at a glance
+## 📡 Live Metrics
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=josepadial&show_icons=true&hide_border=true">
@@ -73,13 +73,6 @@ OpenTelemetry • Prometheus • Grafana • Loki • Tracing • Error budgets 
     <img src="https://github-profile-trophy.vercel.app/?username=josepadial&theme=flat&no-frame=true&margin-w=5" alt="Trophies" />
   </a>
 </p>
-
----
-
-## 📰 Recent activity
-<!-- Auto-updated by the workflow below -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
